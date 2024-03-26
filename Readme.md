@@ -10,7 +10,7 @@
   - Clicking on the "Code" button above and selecting "Download ZIP". Then, extract the downloaded ZIP file.
   - Or, if you have Git installed, use the following command in your terminal:
     ```
-    git clone Repository Link
+    git clone https://github.com/Ajmal-AJ/Esight-machine-test.git
     ```
 ### Step 2: Open the Project
 - Once you have downloaded or cloned the repository, navigate to the folder where the project is located on your local machine.
@@ -19,4 +19,4 @@
 
 ## Live Hosted Website Link
 
-
+You can access the live hosted version of this project:  [https://ajmal-aj.github.io/Esight-machine-test/]
